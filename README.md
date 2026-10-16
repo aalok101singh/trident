@@ -254,7 +254,7 @@ The wheel ends up in `dist\`. Install it in a fresh venv to verify.
 
 ## 🧪 Status
 
-`v0.9.0` — beta. Tested on Windows 10 and Windows 11 with Python 3.11 through 3.14.
+`v0.9.1` — beta. Tested on Windows 10 and Windows 11 with Python 3.11 through 3.14.
 
 Known limitations at this version:
 
